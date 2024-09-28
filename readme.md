@@ -27,7 +27,7 @@ Este projeto consiste em um sistema de correção automática de provas, compost
 
 1. Clone o repositório:
    ```
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/blueIsaac1/GabaritoMobile.git
    cd nome-do-repositorio
    ```
 
@@ -45,7 +45,6 @@ Este projeto consiste em um sistema de correção automática de provas, compost
 ## Configuração
 
 1. Certifique-se de que o gabarito do professor está localizado em `./professor_gabarito/gabarito.jpg`.
-2. Crie uma pasta `uploads` para armazenar as imagens dos gabaritos dos alunos.
 3. Ajuste o endereço IP do servidor no arquivo do frontend (`ImageProcessingScreen.js`) para corresponder ao IP da sua máquina.
 
 ## Uso
